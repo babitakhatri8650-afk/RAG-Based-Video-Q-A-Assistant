@@ -1,0 +1,54 @@
+{"text": " In this video, I will tell you what are IDN classes? The concept of IDN classes is one of the most confused concepts. In fact, when I was learning HTML, I was learning it in my early days.", 
+"segments": [
+        {"id": 0, "seek": 0, "start": 0.0, "end": 3.08, "text": " In this"], 
+        
+        "temperature": 0.0, "avg_logprob": -0.6767288901589134, "compression_ratio": 1.3925925925925926, "no_speech_prob": 0.0023628666531294584},
+    {"id": 1, "seek": 0, "start": 3.08, "end": 7.32, "text": " The concept of IDN classes is one of the most confused concepts.", "tokens": [
+            50518,
+            440,
+            3410,
+            295,
+            7348,
+            45,
+            5359,
+            307,
+            472,
+            295,
+            264,
+            881,
+            9019,
+            10392,
+            13,
+            50730
+        ], "temperature": 0.0, "avg_logprob": -0.6767288901589134, "compression_ratio": 1.3925925925925926, "no_speech_prob": 0.0023628666531294584
+    },
+    {"id": 2, "seek": 0, "start": 7.32, "end": 9.64, "text": " In fact, when I was learning HTML,", "tokens": [
+            50730,
+            682,
+            1186,
+            11,
+            562,
+            286,
+            390,
+            2539,
+            17995,
+            11,
+            50846
+        ], "temperature": 0.0, "avg_logprob": -0.6767288901589134, "compression_ratio": 1.3925925925925926, "no_speech_prob": 0.0023628666531294584
+    },
+    {"id": 3, "seek": 0, "start": 9.64, "end": 11.64, "text": " I was learning it in my early days.", "tokens": [
+            50846,
+            286,
+            390,
+            2539,
+            309,
+            294,
+            452,
+            2440,
+            1708,
+            13,
+            50946
+        ], "temperature": 0.0, "avg_logprob": -0.6767288901589134, "compression_ratio": 1.3925925925925926, "no_speech_prob": 0.0023628666531294584
+    }
+], "language": "hi"
+}
